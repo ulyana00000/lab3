@@ -1,0 +1,50 @@
+
+@import url(base.css);
+@import url(reset.css);
+@import url(header.css);
+@import url(menu.css);
+@import url(main.css);
+@import url(sidebar.css);
+@import url(footer.css);
+
+
+body{
+    margin:auto;
+  
+    max-width: var(--width-page);
+    background-color: var(--color-1);
+  }
+  
+  .container {
+      /* Ширина контейнеру */
+      width: var(--width-page);
+      height: var(--height-page);
+      /* Фоновий колір */
+      background-color: var(--color-1);
+      /* Колір тексту */
+      color: black;
+      /* Шрифт тексту */
+      font-family: var(--font-family-h);
+      /* Розмір тексту */
+      font-size: var(--font-size-h3);
+    
+      display: inline-block;
+    }
+
+    .container_1 {
+        /* Ширина контейнеру */
+        width: var(--width-header);
+        height: var(--height-header);
+        /* Фоновий колір */
+        background-color: var(--color-2);
+        /* Колір тексту */
+        color: black;
+        /* Шрифт тексту */
+        font-family: var(--font-family-h);
+        /* Розмір тексту */
+        font-size: var(--font-size-h3);
+        display: inline-block;
+      }
+  
+    
+    

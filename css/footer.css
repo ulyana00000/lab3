@@ -1,0 +1,14 @@
+.footer{
+    width: var(--width-sidebar);
+    height: var(--height-footer);
+    float:right;
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    padding-top: 35px;
+    background-color: var(--color-4);
+    
+    font-weight: bold;
+    padding-left: 170px;
+    font-size: 20px;
+
+}

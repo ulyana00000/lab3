@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "KyivTypeSerif";
+    src: url("D:/унік/ПРВЗ/Лаб3хтмл/Fonts/OTF/KyivTypeSerif-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root{
+    /* COLORS*/
+
+    --color-black: #000000;
+    --color-dark-red: #800000;
+    --color-red: #F00;
+    --color-white: #FFF;
+
+    /*FONTS N SIZES*/
+    --font-family-h: "KyivTypeSerif";
+    --font-size-h1: 128px;
+    --font-size-h2: 40px;
+    --font-size-h3: 36px;
+
+    /*SITE SIZES*/
+    --width-page: 1440px;
+    --height-page: 2380px;
+
+    --height-header: 193px;
+
+    --height-menu: 85px;
+
+    --width-main: 1074px;
+    --height-main: 1896px;
+
+    --width-sidebar: 366px;
+    --height-sidebar: 1775px;
+
+    --height-footer: 121px;
+    --img: 172px;
+
+
+
+    --padding-text: 30px;
+}

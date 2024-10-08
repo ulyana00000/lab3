@@ -1,0 +1,25 @@
+
+.header{
+    height:var(--height-header);
+    width: var(--width-header);
+    font-family: var(--font-family-h);
+    color: black;
+    background-color: #F5CAA4; 
+    border: 3px solid black; 
+    text-align: left;
+    padding-left: 140px;
+    padding-top: 10px;
+   
+}
+
+
+.bold-text {
+    font-weight: bold; 
+    font-size: 40px; 
+}
+
+.normal-text {
+    font-weight: bold; 
+    font-size: 24px; 
+}
+

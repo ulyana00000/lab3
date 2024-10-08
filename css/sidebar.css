@@ -1,0 +1,26 @@
+.sidebar{
+    width: var(--width-sidebar);
+    height: var(--height-sidebar);
+    float:right;
+    
+    border: 1px solid black;
+}
+
+.sidebar_text{
+    padding-top: 20px;
+    padding: 20px;
+    padding-left: 30px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    
+    
+}
+
+.sidebar_contacts{
+    padding-top: 5px;
+    padding-left: 30px;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin-bottom: 5px;
+    
+}

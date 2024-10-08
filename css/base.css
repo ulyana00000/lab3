@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+:root{
+
+    --color-1: #F7E6D7;
+    --color-2: #F5CAA4;
+    --color-3: #EDA470;
+    --color-4: #D3B485;
+
+    --font-family-h: Raleway;
+    --font-size-h1: 32px;
+    --font-size-h2: 24px;
+    --font-size-h3: 16px;
+
+    --width-page: 1520px;
+    --height-page: 1500px;
+
+    --height-header: 100px;
+    --width-header: 560px;
+
+    --height-menu: 100px;
+    --width-menu: 960px;
+
+    --width-main: 960px;
+    --height-main: 1400px;
+
+    --width-sidebar: 560px;
+    --height-sidebar: 1305px;
+
+    --height-footer: 95px;
+
+
+
+
+    
+}

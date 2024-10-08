@@ -1,0 +1,12 @@
+.footer{
+    width: var(--width-sidebar);
+    height: var(--height-footer);
+    float:right;
+    border-bottom: 1px solid var(--color-white);
+    border-top: 1px solid var(--color-white);
+    border-left: 1px solid var(--color-white);
+    border-right: 1px solid var(--color-white);
+    color: white;
+    padding-top: 50px;
+
+}

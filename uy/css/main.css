@@ -1,0 +1,87 @@
+.main{
+    width: var(--width-main);
+    height: var(--height-main);
+    float: left;
+    border-bottom: 1px solid var(--color-white);
+    border-top: 1px solid var(--color-white);
+    border-left: 1px solid var(--color-white);
+    border-right: 1px solid var(--color-white);
+}
+
+.content_item1 {
+    
+    padding-top: 0px;
+
+}
+.content_item2 {
+    
+    padding-top: 40px;
+
+}
+.content_item3 {
+    
+    padding-top: 135px;
+
+}
+.content_item4 {
+    
+    padding-top: 45px;
+
+}
+
+.content_header{
+    padding-top: 30px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.content_text{
+    padding-left: 30px;
+
+    position: relative;
+    color: white;
+    font-size: 40px;
+    z-index: 2;
+    padding-top: 25px;
+    letter-spacing: 1.4px;
+}
+
+.content_box_img{
+    width: 1073px;
+    height: 474px;
+    opacity: 0.25;
+    z-index: 0;
+}
+
+.content_img1{
+    background: url("D:/унік/ПРВЗ/Лаб3хтмл/imgs/2.jpg") no-repeat;
+    background-size: cover;
+    position: absolute;
+
+
+}
+
+.content_img2{
+    background: url("D:/унік/ПРВЗ/Лаб3хтмл/imgs/3.jpg") no-repeat;
+    background-size: cover;
+    position: absolute;
+
+
+}
+
+.content_img3{
+    background: url("D:/унік/ПРВЗ/Лаб3хтмл/imgs/4.webp") no-repeat;
+    background-size: cover;
+    position: absolute;
+
+
+}
+
+.content_img4{
+    background: url("D:/унік/ПРВЗ/Лаб3хтмл/imgs/5.jpg") no-repeat;
+    background-size: cover;
+    position: absolute;
+
+
+}
